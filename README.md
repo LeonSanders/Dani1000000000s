@@ -1,4 +1,4 @@
-### We love Dani.
+### We love Dani
 
 It'd be nice to have him remember his 1 billionth second on this earth with him
 
