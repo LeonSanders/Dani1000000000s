@@ -14,7 +14,7 @@ To help you remember here is a:
 
 <div style="font-family:    Arial, Helvetica, sans-serif;                font-size:      55px;                font-weight:    bold; text-align: center;" align="center">Dani's 1 billionth second in the following timezome:</div>
 
-<iframe src="https://free.timeanddate.com/countdown/i85ma2rr/n268/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw1000/szh421/tat/tac000/tptin%20timezone%20for/tpc000/mac000/mpc000/iso2023-09-22T21:25:30" allowtransparency="true" frameborder="0" width="420" height="212" align="middle" display="auto"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i85ma2rr/n268/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw1000/szh421/tat/tac000/tptin%20timezone%20for/tpc000/mac000/mpc000/iso2023-09-22T21:25:30" allowtransparency="true" frameborder="0" width="420" height="212" margin"0 auto" display="block"></iframe>
 
 ### Calendar reminder
 
