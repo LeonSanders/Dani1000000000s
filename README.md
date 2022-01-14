@@ -16,11 +16,12 @@ To help you remember here is a:
 ### Calendar reminder
 
 Just add this event here <a href="daniBillionSeconds.ics">here</a>
+
 Or add this date to your calendar: September 22nd 2023, 21:25:30
 
 ### Email reminder
 
-Sign up for a reminder [here]:
+Sign up for a reminder [here]:(https://lmgtfy.app/?q=remind+yourself)
 
 ### Support or Contact
 
