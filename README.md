@@ -21,7 +21,7 @@ Or add this date to your calendar: September 22nd 2023, 21:25:30
 
 ### Email reminder
 
-Sign up for a reminder [here]:(https://lmgtfy.app/?q=remind+yourself)
+Sign up for a reminder [here](https://lmgtfy.app/?q=remind+yourself+with+email)
 
 ### Support or Contact
 
