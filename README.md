@@ -15,7 +15,7 @@ To help you remember here is a:
 
 ### Calendar reminder
 
-Just add this event here <a href="daniBillionSeconds.ics">here</a>
+Just add this event <a href="daniBillionSeconds.ics">here</a>
 
 Or add this date to your calendar: September 22nd 2023, 21:25:30
 
