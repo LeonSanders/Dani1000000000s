@@ -18,8 +18,8 @@ To help you remember here is a:
 
 ### Calendar reminder
 
-Just add this event <a href="daniBillionSeconds.ics">here</a>. 
-Or add this date to your calendar: September 22nd 2023, 21:25:30. 
+Just add this event <a href="daniBillionSeconds.ics">here</a>  
+Or add this date to your calendar: September 22nd 2023, 21:25:30   
 (By the way his 2nd billionth second will be on May 31st 2055, 23:12)
 
 
