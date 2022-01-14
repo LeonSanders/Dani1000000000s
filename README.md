@@ -1,6 +1,7 @@
 We love Dani.
 It'd be nice to have him remember his 1 billionth second on this earth with him
-For example by by:
+
+For example by:
 - writing him
 - having a party
 - kidnapping him for 1 second
