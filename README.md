@@ -15,9 +15,11 @@ To help you remember here is a:
 
 ### Email reminder
 
+Sign up for a reminder here: 
+
 ### Further development
 
-Add an event.ics
+Add an event.ics like [this](https://github.com/davidgundry/jekyll-google-calendar) maybe...
 
 ### Support or Contact
 
